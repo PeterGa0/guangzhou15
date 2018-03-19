@@ -1,7 +1,7 @@
 <template>
     <div>
         <header></header>
-        <app-log></app-log>
+        test
         <footer></footer>
     </div>
 </template>
